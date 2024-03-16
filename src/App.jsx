@@ -57,6 +57,16 @@ function App() {
 
         </Title>
 
+        <Title title="Skill">
+        <p>  
+          Comunication<br/>
+          Fast Learner<br/>
+          Team Working<br/>
+
+           </p>
+
+        </Title>
+
     
       </div>
 
