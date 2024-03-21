@@ -16,7 +16,7 @@ function App() {
         </div>
 <div className='name'>
 <Title title="Jetarin Rueangsak (Jay)">
-        <h3>Frontend</h3>
+        <h3>ตำแหน่ง : Frontend</h3>
         </Title>
 </div>
         
